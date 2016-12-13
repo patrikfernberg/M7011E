@@ -14,6 +14,7 @@
 
 <body id="page-top" class="index">
 
+<p>Testing</p>
 <?php
 include ("navbar-index.shtml");
 include("pdo_connect.php");
