@@ -18,7 +18,6 @@
 <?php
 include("navbar.shtml");
 include("header.shtml");
-include("pdo_connect.php");
 ?>
 
     <!-- Portfolio Grid Section -->
