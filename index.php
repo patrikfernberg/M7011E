@@ -18,7 +18,6 @@
 <p>Testing</p>
 <?php
 include ("navbar-index.shtml");
-include("pdo_connect.php");
 
 if (isset($_SESSION['username'])){
 	
