@@ -76,27 +76,18 @@ include("header.shtml");
             <div class="row">
                 <div class="col-lg-3 col-lg-offset-2">
                     <p>Top scores: Snake</p>
-					<?php
-					$gameID = 1;
-					require_once ("hsdisplay-player_script.php");
-					?>
+                    <p>1...</p>
+                    <p>2...</p>
+                    <p>3...</p>
                 </div>
                 <div class="col-lg-3">
                     <p>Top scores: Chess</p>
-					<?php
-					$gameID = 2;
-					//require_once ("hsdisplay-player_script.php");
-					?>
                     <p>1...</p>
                     <p>2...</p>
                     <p>3...</p>
                 </div>
                 <div class="col-lg-3">
                     <p>Top scores: Pong</p>
-					<?php
-					$gameID = 3;
-					//require_once ("hsdisplay-player_script.php");
-					?>
                     <p>1...</p>
                     <p>2...</p>
                     <p>3...</p>
