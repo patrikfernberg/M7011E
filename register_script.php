@@ -1,5 +1,4 @@
 <?php
-	include("pdo_connect.php");
 	
 	$user = $_POST['username'];
 	
